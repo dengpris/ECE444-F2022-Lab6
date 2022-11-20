@@ -1,6 +1,6 @@
 # ECE444-F2022-Lab6
-Lab 6 Priscilla Deng. This repo was created following the instructors from here: 
-https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-21-ninjas/blob/docker-prep/Education_Pathways/tests/test_app.py#L22-L42
+Lab 6 Priscilla Deng. This repo was created following the instructions from here: 
+https://github.com/mjhea0/flaskr-tdd
 
 ## Unit Test in Project 1
 https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-21-ninjas/blob/docker-prep/Education_Pathways/tests/test_app.py#L22-L42
